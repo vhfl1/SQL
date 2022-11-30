@@ -2,13 +2,10 @@
 #이름 : 윤사랑
 #내용 : SQL 연습문제3
 
-#3-1
-create database `java1_College`;
-create user 'java1_admin3'@'%' identified by '1234';
-grant all privileges on College.* to 'java1_admin3'@'%';
-flush privileges;
+
+
 #3-2
-drop table `Student`;
+
 create table `Student`(
        `stdNo` varchar(8) not null primary key,
        `stdName` varchar(20) not null,

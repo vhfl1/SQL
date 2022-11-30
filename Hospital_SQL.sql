@@ -73,3 +73,4 @@ insert into `Charts` values ('C1021009', '1021001', 'D102101', 'P102101', '주�
 insert into `Charts` values ('C1071010', '1021001', 'D102101', 'P102101', 'mri 검사');
 insert into `Charts` values ('C1051011', '1021001', 'D102101', 'P102101', '귀 청소 및 약 처방');
 insert into `Charts` values ('C1041012', '1021001', 'D102101', 'P102101', '화상 크림약 처방');
+user2user2tblusertblusertblusertblusertblproducttblproductuser2user3user2user2
